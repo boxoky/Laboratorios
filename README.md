@@ -14,96 +14,96 @@
 ## Tabla de Contenido del Curso
 ### Día 1
 #### A. Diferencia entre Máquinas Virtuales y Contenedores
-- ** Las Aplicaciones ** 
-- ** Maquinas Virtuales **
-- ** Contenedores **
-- ** Maquinas Virtuales vs Contenedores **
+- **Las Aplicaciones** 
+- **Maquinas Virtuales**
+- **Contenedores**
+- **Maquinas Virtuales vs Contenedores**
 
 #### B. ¿Qué es un Docker?
-- ** Docker como Motor de contenedores **
-- ** Docker como una plataforma Open Source **
-- ** ¿Los contenedores son exclusivos de Docker? **
+- **Docker como Motor de contenedores**
+- **Docker como una plataforma Open Source**
+- **¿Los contenedores son exclusivos de Docker?**
 
 #### C. Preparando el entorno de trabajo
-- ** Instalando Docker **
-- ** Instalando Visual Studio Code **
-- ** Cosas a tener en cuenta sobre Docker Desktop **
-- ** Primeros pasos con Docker, “Hello world" **
+- **Instalando Docker**
+- **Instalando Visual Studio Code**
+- **Cosas a tener en cuenta sobre Docker Desktop**
+- **Primeros pasos con Docker, “Hello world"**
 
 ### Día2
 #### A. Arquitectura de Docker
-- ** Daemon **
-- ** API **
-- ** Linea de Comandos **
+- **Daemon**
+- **API**
+- **Linea de Comandos**
 
 #### B. Ventajas de Docker
-- ** Construir**
-- ** Entregar **
-- ** Ejecutar **
+- **Construir**
+- **Entregar**
+- **Ejecutar**
 
 #### C. Images - Entregar
-- ** ¿Cómo se forma una imagen (Capas)? **
-- ** La inmutabilidad de una imagen **
-- ** Ventajas de usar una Imagen de contenedores **
+- **¿Cómo se forma una imagen (Capas)?**
+- **La inmutabilidad de una imagen**
+- **Ventajas de usar una Imagen de contenedores**
 
 ### Día 3
 #### A. Dockerfile - Construir
-- ** ¿Qué es un Dockerfile?, ¿Es ejecutable? **
-- ** Principales Comandos **
-- ** Construir una imagen **
+- **¿Qué es un Dockerfile?, ¿Es ejecutable?**
+- **Principales Comandos**
+- **Construir una imagen**
 
 #### B. Dockerfile - Construir
-- ** Diferencias entre Imagen y Contenedor **
-- ** Comandos de Contenedores de Docker **
-- ** Ciclo de vida de los contenedores **
-- ** Eliminar imágenes y Contenedores **
-- ** Inspeccionando los despliegues **
-- ** Modo interactivo**
-- ** Exponiendo contenedores **
-- ** Contenedor “pause” **
-- ** Construyendo una imagen de Docker **
+- **Diferencias entre Imagen y Contenedor**
+- **Comandos de Contenedores de Docker**
+- **Ciclo de vida de los contenedores**
+- **Eliminar imágenes y Contenedores**
+- **Inspeccionando los despliegues**
+- **Modo interactivo**
+- **Exponiendo contenedores**
+- **Contenedor “pause”**
+- **Construyendo una imagen de Docker**
 
 ### Día 4 
 #### A. Registros
-- ** pull y push **
-- ** Registros Locales **
-- ** Registros Remotos **
+- **pull y push**
+- **Registros Locales**
+- **Registros Remotos**
 
 #### B. Volúmenes en Docker
-- ** Bind Mounts **
-- ** Docker Volumes **
-- ** ¿Cuál es mejor? **
+- **Bind Mounts**
+- **Docker Volumes**
+- **¿Cuál es mejor?**
 
 #### C. Comunicación entre Contenedores
-- ** Docker Bridge **
-- ** Inspeccionando una red **
-- ** Listar las redes disponibles **
-- ** Conectar un Contenedor a una red (Bridge) **
-- ** Comunicar dos contenedores **
+- **Docker Bridge**
+- **Inspeccionando una red**
+- **Listar las redes disponibles**
+- **Conectar un Contenedor a una red (Bridge)**
+- **Comunicar dos contenedores**
 
 #### D. Docker Compose
-- ** Aplicaciones multicontenedores **
+- **Aplicaciones multicontenedores**
 
 ### Día5
 #### A. Breve paso por lo qué es Kubernetes
-- ** ¿Que kubernetes? **
-- ** ¿Cómo funciona? **
+- **¿Que kubernetes?**
+- **¿Cómo funciona?**
 
 #### B. Diferencia entre Kubernetes y Docker
 
 #### C. Volúmenes en Docker
-- ** Los contenedores como enfoque en la seguridad **
-- ** Usuario root **
-- ** Contenedores privilegiados **
-- ** La información en las capas de un contenedor **
-- ** Escaneo de imágenes **
-- ** El valor de las versiones seguras **
-- ** Imágenes Validadas **
-- ** El enfoque Cero confianza (Zero trust Approach) **
+- **Los contenedores como enfoque en la seguridad**
+- **Usuario root**
+- **Contenedores privilegiados**
+- **La información en las capas de un contenedor**
+- **Escaneo de imágenes**
+- **El valor de las versiones seguras**
+- **Imágenes Validadas**
+- **El enfoque Cero confianza (Zero trust Approach)**
 
 #### D. Hoy en día en el ISSSTE
-- ** Logros alcanzados – Aplicaciones migradas a contenedores **
-- ** Arquitectura usada **
-- ** ¿Quién administra esta arquitectura? **
+- **Logros alcanzados – Aplicaciones migradas a contenedores**
+- **Arquitectura usada**
+- **¿Quién administra esta arquitectura?**
 
 ------------
